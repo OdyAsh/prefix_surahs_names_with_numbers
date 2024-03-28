@@ -1,0 +1,45 @@
+beautifulsoup4==4.12.3
+exceptiongroup==1.2.0
+fuzzywuzzy==0.18.0
+importlib-metadata==7.1.0
+ipykernel==6.29.3
+pickleshare==0.7.5
+pip-chill==1.0.3
+python-levenshtein==0.25.0
+requests==2.31.0
+typing-extensions==4.10.0
+# asttokens==2.4.1 # Installed as dependency for stack-data
+# certifi==2024.2.2 # Installed as dependency for requests
+# charset-normalizer==3.3.2 # Installed as dependency for requests
+# colorama==0.4.6 # Installed as dependency for ipython
+# comm==0.2.2 # Installed as dependency for ipykernel
+# debugpy==1.8.1 # Installed as dependency for ipykernel
+# decorator==5.1.1 # Installed as dependency for ipython
+# executing==2.0.1 # Installed as dependency for stack-data
+# idna==3.6 # Installed as dependency for requests
+# ipython==8.22.2 # Installed as dependency for ipykernel
+# jedi==0.19.1 # Installed as dependency for ipython
+# jupyter-client==8.6.1 # Installed as dependency for ipykernel
+# jupyter-core==5.7.2 # Installed as dependency for ipykernel, jupyter-client
+# levenshtein==0.25.0 # Installed as dependency for python-levenshtein
+# matplotlib-inline==0.1.6 # Installed as dependency for ipykernel, ipython
+# nest-asyncio==1.6.0 # Installed as dependency for ipykernel
+# packaging==24.0 # Installed as dependency for ipykernel
+# parso==0.8.3 # Installed as dependency for jedi
+# platformdirs==4.2.0 # Installed as dependency for jupyter-core
+# prompt-toolkit==3.0.42 # Installed as dependency for ipython
+# psutil==5.9.8 # Installed as dependency for ipykernel
+# pure-eval==0.2.2 # Installed as dependency for stack-data
+# pygments==2.17.2 # Installed as dependency for ipython
+# python-dateutil==2.9.0 # Installed as dependency for jupyter-client
+# pywin32==306 # Installed as dependency for jupyter-core
+# pyzmq==25.1.2 # Installed as dependency for ipykernel, jupyter-client
+# rapidfuzz==3.7.0 # Installed as dependency for levenshtein
+# six==1.16.0 # Installed as dependency for asttokens, python-dateutil
+# soupsieve==2.5 # Installed as dependency for beautifulsoup4
+# stack-data==0.6.2 # Installed as dependency for ipython
+# tornado==6.4 # Installed as dependency for ipykernel, jupyter-client
+# traitlets==5.14.2 # Installed as dependency for comm, ipykernel, ipython, jupyter-client, jupyter-core, matplotlib-inline
+# urllib3==2.2.1 # Installed as dependency for requests
+# wcwidth==0.2.13 # Installed as dependency for prompt-toolkit
+# zipp==3.17.0 # Installed as dependency for importlib-metadata
